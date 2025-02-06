@@ -1,7 +1,7 @@
 # Hi, I'm Jeffrin! 👋
 -----
 ## About me
-I am an undergraduate student pursuing a degree in Artificial Intelligence with a specialization in Machine Learning. Additionally, I have a strong passion for game development and cybersecurity.
+Cybersecurity | OSINT | Game Development | Artificial Intelligence
 
 My itch.io page: [Itch.io](https://jeffrin.itch.io)
 ## Contact
