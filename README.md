@@ -8,9 +8,9 @@
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-501DAF?style=for-the-badge
 )
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=py,js,nginx,aws,docker,godot" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=py,js,nginx,aws,docker,godot" />
+
 
 ## My Hobby
 <a href="https://jeffrin.itch.io">
