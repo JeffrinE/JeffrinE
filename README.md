@@ -19,4 +19,4 @@
 
 
 ## Contact
-You can contact me through [Linkedin](https://www.linkedin.com/in/jeffrin-e-60b160260/).
+You can contact me through [Linkedin](https://www.linkedin.com/in/jeffrine).
